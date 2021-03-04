@@ -10,7 +10,7 @@ Install the dependencies - ```???```
 
 Run with the data specified in the challenge ```???```
 
-To run the tests use ```???```
+To run the tests use ```/usr/bin/env python3 -m unittest -v```
 
 
 ### The Challenge
